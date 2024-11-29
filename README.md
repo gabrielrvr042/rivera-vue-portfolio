@@ -18,10 +18,10 @@ The Rivera Vue Portfolio is designed to present my work and professional backgro
 ## Features
 
 - **Login Page**: A secure entry point for users to access their profiles.
-- **Profile Page**: Displays personal information, including a bio and skills.
-- **Portfolio Showcase**: Highlights various projects with descriptions and images.
+- **Profile Page**: Displays my personal information, including a bio and skills.
+- **Portfolio Showcase**: Highlights my previous projects with descriptions and images.
 - **Contact Page**: A form for visitors to send messages directly, utilizing EmailJS for email handling.
-- **Creative Page**: Showcases unique projects or creative endeavors outside of professional work.
+- **Creative Page**: Showcases my creative endeavors outside of professional work.
 
 ## Technologies Used
 
